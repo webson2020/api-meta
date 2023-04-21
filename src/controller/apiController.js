@@ -48,10 +48,6 @@ const recibir = (req, res) => {
       sendMessage.sendMessageWhatsApp(text, number, )
     }
 
-    
-
-    
-
     res.send('EVENT_RECEIVED');
 
   } catch (error) {
