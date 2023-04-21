@@ -136,7 +136,7 @@ function sendMessageWhatsApp(text, number) {
       headers: {
         "Content-Type": "application/json",
         Authorization:
-          "Bearer ...",
+          "Bearer EAAwhxnEcF6cBAD6xZB5Xo4ZASTfdPKxUBpouaJBnw8mduIj4JYIYD2hnxiHzUHUMzZBZCsvDStuf5gEG3diUqc8pZC624B07t0BxTbxxRPMJiCLR89ZBZBJqnIVYKeUuZCMQ1ZBO5Mf2s6r3NVxHhB6EIpZAKYyA7KwumGPQbLh75gb0tOpzZAqrxRUmAfqlS8jeBMssXg2DhmdgAZDZD",
       },
     };
   

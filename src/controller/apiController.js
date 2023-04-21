@@ -45,7 +45,7 @@ const recibir = (req, res) => {
       const text = messages['text']['body']
       const number = messages['from'];
 
-      sendMessage.sendMessageWhatsApp(text, number)
+      sendMessage.sendMessageWhatsApp(text, number, )
     }
 
     
